@@ -1,0 +1,8 @@
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\bin\Debug\netstandard2.0\MyMath.deps.json
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\bin\Debug\netstandard2.0\MyMath.dll
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\bin\Debug\netstandard2.0\MyMath.pdb
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\obj\Debug\netstandard2.0\MyMath.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\obj\Debug\netstandard2.0\MyMath.dll
+C:\Users\xnikm\Desktop\3sem\programmering\MyMath\MyMath\obj\Debug\netstandard2.0\MyMath.pdb
